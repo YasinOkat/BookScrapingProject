@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project is a Web Scraper project built using Scrapy library in Python. The scraper crawling on tho websites (kitapsepeti.net, kitapyurdu.com) and scrapes details such as, authors, title, number of times bought, how many stars it received, price, publisher etc.  of books about Python. 
+A Web Scraper project built using Scrapy library in Python. The scraper crawling on two websites (kitapsepeti.net, kitapyurdu.com) and scrapes details such as, authors, title, number of times bought, how many stars it received, price, publisher etc.  of books about Python. 
 Then it saves all these data to MongoDB, the data scraped from kitapyurdu.com is saved to kitapyurdu collection, while the data scraped from the kitapsepeti is saved to the kitapsepeti collection, in the database smartmaple. 
 
 # Requirements
