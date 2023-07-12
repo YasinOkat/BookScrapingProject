@@ -26,12 +26,12 @@ EXTENSIONS = {
     'smartmaple.email_extension.EmailExtension': 500,
 }
 
-EMAIL_FROM = 'yasinokat@gmail.com'
-EMAIL_TO = 'raistlin1923@gmail.com'
+EMAIL_FROM = 'mail@gmail.com'
+EMAIL_TO = 'mail@gmail.com'
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 SMTP_USERNAME = 'yasinokat@gmail.com'
-SMTP_PASSWORD = 'kthfemzozhovabaf'
+SMTP_PASSWORD = 'pass'
 
 #ROTATING_PROXY_LIST = [
 #    '197.234.13.4:4145',
