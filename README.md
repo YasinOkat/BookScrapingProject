@@ -25,7 +25,7 @@ Then it saves all these data to MongoDB, the data scraped from kitapyurdu.com is
 - Uses both css and xpath selectors
 - Iterates over pages
 - Rotating proxy list, some websites blocks the ip addresses to prevent data scraping, by using multiple proxies, it can bypass that, however, the option is disabled since the free proxies I have used is dying
-- Utilisez pipelines to clean data: extractin numbers, removing whitespaces, etc.
+- Utilises pipelines to clean data: extractin numbers, removing whitespaces, etc.
 
 # Installation
 
