@@ -83,9 +83,12 @@ Then it saves all these data to MongoDB, the data scraped from kitapyurdu.com is
 # Screenshots
 
 <p align="center">
-  <img src="preview/home_page.PNG" alt="Web app" width="600">
+  <img src="screenshots/errorgmail.PNG" alt="Error mail" width="900">
 </p>
 <p align="center">
-  <img src="preview/rest.PNG" alt="REST API" width="600">
+  <img src="screenshots/mongo.PNG" alt="Mongo DB" width="900">
+</p>
+<p align="center">
+  <img src="screenshots/json.PNG" alt="json" width="900">
 </p>
 
