@@ -38,7 +38,8 @@ Then it saves all these data to MongoDB, the data scraped from kitapyurdu.com is
 3. Navigate to the repo path
 
    ```bash
-   cd SmartMapleProject
+   cd SmartMapleTestProject
+   cd smartmaple
 5. Install the requirements
 
    ```bash
