@@ -14,6 +14,7 @@ Then it saves all these data to MongoDB, the data scraped from kitapyurdu.com is
 - fake-useragent
 - scrapy-rotating-proxies
 - scrapy-splash
+- plotly
 
 # Features
 
@@ -26,6 +27,7 @@ Then it saves all these data to MongoDB, the data scraped from kitapyurdu.com is
 - Iterates over pages
 - Rotating proxy list, some websites blocks the ip addresses to prevent data scraping, by using multiple proxies, it can bypass that, however, the option is disabled since the free proxies I have used is dying
 - Utilises pipelines to clean data: extractin numbers, removing whitespaces, etc.
+- Data visualization: Used plotly to draw graphs of pages, number of times bought etc.
 
 # Installation
 
@@ -90,5 +92,11 @@ Then it saves all these data to MongoDB, the data scraped from kitapyurdu.com is
 </p>
 <p align="center">
   <img src="screenshots/json.PNG" alt="json" width="900">
+</p>
+<p align="center">
+  <img src="screenshots/pages.PNG" alt="json" width="900">
+</p>
+<p align="center">
+  <img src="screenshots/bought.PNG" alt="json" width="900">
 </p>
 
